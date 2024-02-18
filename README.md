@@ -9,6 +9,10 @@
 - [Revisão Sistemática e Meta-análise](https://github.com/icn-sousa/certificados-cursos/blob/main/Revis%C3%A3o%20Sistem%C3%A1tica%20e%20Meta-an%C3%A1lise.pdf)
 - [The Data Scientist's Toolbox](https://github.com/icn-sousa/certificados-cursos/blob/main/The%20Data%20Scientist's%20Toolbox.pdf)
 
+## ICMC/USP
+
+- [Python para Processamento de Linguagem Natural](https://github.com/icn-sousa/certificados-cursos/blob/main/Python%20para%20PLN.pdf)
+
 ## Kaggle
 
 - [Intro to Programming](https://github.com/icn-sousa/certificados-cursos/blob/main/1.Intro%20to%20Programming.png)
