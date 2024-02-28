@@ -20,3 +20,4 @@
 - [Data Visualization](https://github.com/icn-sousa/certificados-cursos/blob/main/7.Data%20Visualization.png)
 - [Intro to SQL](https://github.com/icn-sousa/certificados-cursos/blob/main/8.Intro%20to%20SQL.png)
 - [Advanced SQL](https://github.com/icn-sousa/certificados-cursos/blob/main/9.Advanced%20SQL.png)
+- [Feature Engineering](https://github.com/icn-sousa/certificados-cursos/blob/main/10.Feature%20Engineering.png)
