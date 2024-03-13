@@ -8,6 +8,7 @@
 - [R Programming](https://github.com/icn-sousa/certificados-cursos/blob/main/R%20Programming.pdf)
 - [Revisão Sistemática e Meta-análise](https://github.com/icn-sousa/certificados-cursos/blob/main/Revis%C3%A3o%20Sistem%C3%A1tica%20e%20Meta-an%C3%A1lise.pdf)
 - [The Data Scientist's Toolbox](https://github.com/icn-sousa/certificados-cursos/blob/main/The%20Data%20Scientist's%20Toolbox.pdf)
+- [Data Science Math Skills](https://github.com/icn-sousa/certificados-cursos/blob/main/Data%20Science%20Math%20Skills.pdf)
 
 ## Kaggle
 
